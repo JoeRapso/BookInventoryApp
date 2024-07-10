@@ -1,0 +1,38 @@
+[
+  {
+    "Title": "The Philosophers Stone",
+    "Author": "JK Rowling",
+    "ISBN": "12900891912",
+    "Quantity": 5
+  },
+  {
+    "Title": "The Order of the Phoenix",
+    "Author": "JK Rowling",
+    "ISBN": "12900891913",
+    "Quantity": 120
+  },
+  {
+    "Title": "Meditations",
+    "Author": "Marcus Aurelius",
+    "ISBN": "12900891914",
+    "Quantity": 12
+  },
+  {
+    "Title": "Goblet of Fire",
+    "Author": "JK Rowling",
+    "ISBN": "12900891915",
+    "Quantity": 370
+  },
+  {
+    "Title": "Clean Code",
+    "Author": "Robert Cecil Martin",
+    "ISBN": "12900891916",
+    "Quantity": 3
+  },
+  {
+    "Title": "This is a test",
+    "Author": "test author",
+    "ISBN": "12910891913",
+    "Quantity": 10
+  }
+]
